@@ -14,7 +14,7 @@
 
 #### 链接
 
-1.  [节目地址鼠标🖱右键复制链接](https://github.com/tianfuchuan/tfc/raw/master/live.m3u)
+1.  [节目地址鼠标🖱右键复制链接](https://raw.githubusercontent.com/tianfuchuan/tfc/main/live.m3u))]
 2.  浏览php服务器信息：http://127.0.0.1/info.php/
 3.  频道管理：http://127.0.0.1/channel.php
 4.  获取DIYP接口txt信息：http://127.0.0.1/txt.php
